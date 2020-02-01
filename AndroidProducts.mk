@@ -17,6 +17,6 @@ PRODUCT_MAKEFILES := \
     $(LOCAL_DIR)/derp_twolip.mk
 
 COMMON_LUNCH_CHOICES := \
-    bringup_twolip-user \
-    bringup_twolip-userdebug \
-    bringup_twolip-eng
+    derp_twolip-user \
+    derp_twolip-userdebug \
+    derp_twolip-eng
