@@ -25,7 +25,7 @@
 # Inherit from sdm660-common
 -include device/xiaomi/sdm660-common/BoardConfigCommon.mk
 
-DEVICE_PATH := device/xiaomi/twolip
+DEVICE_PATH := device/xiaomi/tulip
 
 # Assert
 TARGET_OTA_ASSERT_DEVICE := tulip,twolip
